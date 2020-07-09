@@ -1,0 +1,9 @@
+C:\Users\14168\source\repos\sort2\sort2\bin\Debug\sort2.exe.config
+C:\Users\14168\source\repos\sort2\sort2\bin\Debug\sort2.exe
+C:\Users\14168\source\repos\sort2\sort2\bin\Debug\sort2.pdb
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.csprojAssemblyReference.cache
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.Form1.resources
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.Properties.Resources.resources
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.csproj.GenerateResource.cache
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.exe
+C:\Users\14168\source\repos\sort2\sort2\obj\Debug\sort2.pdb
